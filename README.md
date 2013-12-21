@@ -13,7 +13,7 @@ vagrant-fwdports supports only VirtualBox provider.
 
 Clone vagrant-fwdports into working directory:
 
-    gem 'vagrant-fwdports'
+    git clone https://github.com/ariarijp/vagrant-fwdports.git
 
 Into vagrant-fwdports directory:
 
