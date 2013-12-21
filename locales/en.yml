@@ -1,0 +1,7 @@
+en:
+  vagrant-fwdports:
+    errors:
+      vm_is_not_running: |-
+        VM is not running. Run `vagrant up`
+      provider_not_supported: |-
+        vagrant-fwdports does not support this provider.
